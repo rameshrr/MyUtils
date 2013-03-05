@@ -34,3 +34,7 @@ require(['views/app'], function(AppView){
 
     console.log('View loaded');
 });
+
+require(['routes/app'], function(AppRouter){
+    //var appRouter = new AppRouter();
+});
