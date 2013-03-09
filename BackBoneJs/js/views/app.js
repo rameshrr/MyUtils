@@ -53,7 +53,12 @@ define(['jquery', 'underscore', 'backbone', 'views/todo', 'models/todo', 'collec
 
 
             this.todos = new TodoCollection();
-            this.todos.bind('all', this.render, this);
+            //this.todos.bind('all', this.render, this);
+            this.todos.bind('all', function(){
+                console.log('Fetched');
+                console.dir(this.todos);
+                console.log('Fetched');
+            }, this);
             this.todos.fetch();
         },
 
