@@ -4,15 +4,26 @@
     <list default="true" id="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" name="Default" comment="" />
     <ignored path="Node-Backbone.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/main.js" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362635988494" ignored="false" />
+    <file path="/main.js" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362823864766" ignored="false" />
     <file path="/index.jade" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362648121685" ignored="false" />
     <file path="/patientform.html" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362648718355" ignored="false" />
     <file path="/patientform.js" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362719730492" ignored="false" />
     <file path="/Dummy.txt" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362737947169" ignored="false" />
     <file path="/patient.js" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362685215682" ignored="false" />
-    <file path="/app.js" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362718571950" ignored="false" />
+    <file path="/app.js" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1363074397536" ignored="false" />
     <file path="/routes.js" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362719785980" ignored="false" />
     <file path="/patientlist.js" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362721880076" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Node.js/socket.io/app.js" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362822552710" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Node.js/socket.io/package.json" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362821973405" ignored="false" />
+    <file path="/package.json" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362821969098" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Node.js/socket.io/views/layout.jade" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362823713394" ignored="false" />
+    <file path="/layout.jade" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362823713394" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Node.js/socket.io/public/javascripts/main.js" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1362823871117" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Node.js/BackboneSample/config.js" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1363067617045" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Node.js/BackboneSample/public/javascripts/routes/studentRouter.js" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1363067798623" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Node.js/BackboneSample/app.js" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1363074414264" ignored="false" />
+    <file path="D:/Projects/Emdsys.Pacs/Training/trunk/Emdsys.Pacs.DemoSIte1/views/layout.jade" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1363092852267" ignored="false" />
+    <file path="D:/Projects/Emdsys.Pacs/Training/trunk/Emdsys.Pacs.DemoSIte1/app.js" changelist="dfb4dd21-1ac3-46dd-82b1-08448a7a9175" time="1363092852267" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +48,7 @@
       <file leaf-file-name="patientlist.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/javascripts/views/patientlist.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="48" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/index.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="13" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
+            <state line="41" column="0" selection-start="1417" selection-end="1417" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -61,28 +63,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/javascripts/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="2" selection-start="876" selection-end="876" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/javascripts/routes/routes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="21" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="patientlist.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/javascripts/collections/patientlist.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="43" selection-start="405" selection-end="415" vertical-scroll-proportion="0.0">
+            <state line="20" column="30" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -91,25 +75,52 @@
       <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="51" selection-start="1080" selection-end="1080" vertical-scroll-proportion="0.76119405">
+            <state line="56" column="3" selection-start="1392" selection-end="1392" vertical-scroll-proportion="0.2984127">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="patientform.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/javascripts/templates/patientform.html">
+      <file leaf-file-name="module.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.WebStorm6/system/extLibs/nodejs-v0.8.20-src/core-modules-sources/lib/module.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="50" selection-start="365" selection-end="376" vertical-scroll-proportion="0.0">
+            <state line="455" column="0" selection-start="12745" selection-end="12745" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="patientlist.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/javascripts/templates/patientlist.html">
+      <file leaf-file-name="routes.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/routes/routes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="6" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
+            <state line="25" column="21" selection-start="689" selection-end="689" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="1" selection-start="264" selection-end="265" vertical-scroll-proportion="-8.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/user.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="8" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="2" selection-start="109" selection-end="110" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -118,7 +129,7 @@
       <file leaf-file-name="patientform.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/javascripts/views/patientform.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="33" selection-start="1691" selection-end="1691" vertical-scroll-proportion="0.0">
+            <state line="40" column="22" selection-start="1369" selection-end="1369" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -134,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/views/layout.jade" />
         <option value="$PROJECT_DIR$/public/javascripts/templates/patient.html" />
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/public/javascripts/collections/patientlist.js" />
@@ -146,8 +156,10 @@
         <option value="$PROJECT_DIR$/public/javascripts/routes/routes.js" />
         <option value="$PROJECT_DIR$/public/javascripts/views/patientform.js" />
         <option value="$PROJECT_DIR$/public/javascripts/views/patientlist.js" />
-        <option value="$PROJECT_DIR$/views/index.jade" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/views/layout.jade" />
+        <option value="$PROJECT_DIR$/views/index.jade" />
       </list>
     </option>
   </component>
@@ -183,7 +195,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -392,18 +403,20 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="editor" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BackBoneJs" />
+    <property name="options.lastSelected" value="editor" />
+    <property name="last_opened_file_path" value="D:/Projects/Emdsys.Pacs/Training/trunk/Emdsys.Pacs.DemoSIte1" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.app.js">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -414,7 +427,41 @@
       <option name="testName" />
       <method />
     </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
+      <node-js-remote-debug />
+      <method />
+    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
@@ -424,7 +471,7 @@
       </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
-    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
       <RunnerSettings RunnerId="NodeJS.debug" />
       <RunnerSettings RunnerId="NodeJS.run" />
       <ConfigurationWrapper RunnerId="NodeJS.debug" />
@@ -465,10 +512,11 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16499737" sideWeight="0.30211818" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17026885" sideWeight="0.99777037" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16078018" sideWeight="0.73132664" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26867336" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30992195" sideWeight="0.49815497" order="0" side_tool="true" content_ui="tabs" />
@@ -548,60 +596,21 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/app.js</url>
           <line>63</line>
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/app.js</url>
-          <line>67</line>
-          <option name="timeStamp" value="8" />
+          <line>68</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Readme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="25" selection-start="122" selection-end="122" vertical-scroll-proportion="0.09758898" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/libs/backbone/backbone.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="526" column="20" selection-start="19022" selection-end="19024" vertical-scroll-proportion="-14.2" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/express/node_modules/connect/node_modules/qs/test/browser/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6868" column="0" selection-start="179947" selection-end="179947" vertical-scroll-proportion="0.33225283" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/models/patient.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="2" selection-start="876" selection-end="876" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/collections/patientlist.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="43" selection-start="405" selection-end="415" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="32" column="2" selection-start="876" selection-end="876" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/templates/patientform.html">
@@ -618,34 +627,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/routes/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="21" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/views/patientform.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="33" selection-start="1691" selection-end="1691" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/views/patientlist.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="48" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="13" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/views/patient.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="53" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0">
@@ -653,9 +634,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/collections/patientlist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="30" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/views/patientlist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="0" selection-start="1417" selection-end="1417" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="8" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1" selection-start="264" selection-end="265" vertical-scroll-proportion="-8.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="16" selection-start="16" selection-end="74" vertical-scroll-proportion="0.16190477">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="12" selection-start="226" selection-end="226" vertical-scroll-proportion="0.18888889">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="109" selection-end="110" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/routes/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="21" selection-start="689" selection-end="689" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/views/patientform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="22" selection-start="1369" selection-end="1369" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.WebStorm6/system/extLibs/nodejs-v0.8.20-src/core-modules-sources/lib/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="455" column="0" selection-start="12745" selection-end="12745" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="51" selection-start="1080" selection-end="1080" vertical-scroll-proportion="0.76119405">
+        <state line="56" column="3" selection-start="1392" selection-end="1392" vertical-scroll-proportion="0.2984127">
           <folding />
         </state>
       </provider>
